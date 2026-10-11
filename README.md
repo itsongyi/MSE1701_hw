@@ -1,5 +1,5 @@
 # MSE1701_hw
 # This is a homework record backup of MSE1701 in Shanghaitech University written by itsongyi.
-# All the codes, data, figures and report is made or written or collect by lia_song. One can use freely, especially you are unlucky enough to take this required course and know nothing about computational chemistry at the same time lucky enough to find my account. But you cant copied EVERY single word and not give clear references --- I don't want to be involved in plagiarism incident after graduating a long time and say byebye to my diploma.
+# All the codes, data, figures and report is made or written or collect by itsongyi. One can use freely, especially you are unlucky enough to take this required course and know nothing about computational chemistry at the same time lucky enough to find my account. But you cant copied EVERY single word and not give clear references --- I don't want to be involved in plagiarism incident after graduating a long time and say byebye to my diploma.
 # There's another thing I have to clarify, that I did NOT get every homework 100 marks. And if you copy my homework while not connecting me, and finally blame me having made mistakes, then just turn to deepseek.
 # Any recommend and update are welcome!!!
