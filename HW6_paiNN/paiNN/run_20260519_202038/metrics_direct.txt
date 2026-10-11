@@ -1,0 +1,37 @@
+Mode: direct
+Best model path: /home_data/home/imse1701/Sy/painn/Code/outputs/run_20260519_202038/best_model_direct.pth
+Best epoch: 0
+Best validation total loss: 0.05703900
+
+Best Validation Metrics
+Loss: 0.05703900
+Energy MAE: 0.49201203
+Force Comp MAE: 0.01226978
+Force Mag MAE: 0.02050617
+
+Test Metrics
+Loss: 0.05433318
+Energy Metrics
+MAE: 0.55071968
+MSE: 1.02510738
+R2 : 0.77148040
+
+Force Component Metrics
+MAE: 0.01278447
+MSE: 0.00349091
+R2 : 0.76919210
+
+Force X Metrics
+MAE: 0.01925953
+MSE: 0.00591407
+R2 : 0.73765329
+
+Force Y Metrics
+MAE: 0.01909390
+MSE: 0.00455864
+R2 : 0.80033292
+
+Force Magnitude Metrics
+MAE: 0.02116329
+MSE: 0.00891787
+R2 : 0.40366137

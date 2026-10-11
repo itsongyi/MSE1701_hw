@@ -1,0 +1,37 @@
+Mode: autograd
+Best model path: /workdir/Code/outputs/run_20260522_181717/best_model_autograd.pth
+Best epoch: 47
+Best validation total loss: 0.00001110
+
+Best Validation Metrics
+Loss: 0.00001110
+Energy MAE: 0.00850820
+Force Comp MAE: 0.00134374
+Force Mag MAE: 0.00220015
+
+Test Metrics
+Loss: 0.00001089
+Energy Metrics
+MAE: 0.00844129
+MSE: 0.00011115
+R2 : 0.99982772
+
+Force Component Metrics
+MAE: 0.00134588
+MSE: 0.00000568
+R2 : 0.99964347
+
+Force X Metrics
+MAE: 0.00201727
+MSE: 0.00000838
+R2 : 0.99964741
+
+Force Y Metrics
+MAE: 0.00202036
+MSE: 0.00000867
+R2 : 0.99963958
+
+Force Magnitude Metrics
+MAE: 0.00220487
+MSE: 0.00001042
+R2 : 0.99931559

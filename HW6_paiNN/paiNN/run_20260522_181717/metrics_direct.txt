@@ -1,0 +1,37 @@
+Mode: direct
+Best model path: /workdir/Code/outputs/run_20260522_181717/best_model_direct.pth
+Best epoch: 46
+Best validation total loss: 0.00001666
+
+Best Validation Metrics
+Loss: 0.00001666
+Energy MAE: 0.01452494
+Force Comp MAE: 0.00028721
+Force Mag MAE: 0.00046000
+
+Test Metrics
+Loss: 0.00001558
+Energy Metrics
+MAE: 0.01390099
+MSE: 0.00030885
+R2 : 0.99952128
+
+Force Component Metrics
+MAE: 0.00028890
+MSE: 0.00000041
+R2 : 0.99997399
+
+Force X Metrics
+MAE: 0.00043584
+MSE: 0.00000057
+R2 : 0.99997594
+
+Force Y Metrics
+MAE: 0.00043087
+MSE: 0.00000067
+R2 : 0.99997206
+
+Force Magnitude Metrics
+MAE: 0.00046191
+MSE: 0.00000082
+R2 : 0.99994626

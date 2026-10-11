@@ -1,0 +1,37 @@
+Mode: autograd
+Best model path: /home_data/home/imse1701/Sy/painn/Code/outputs/run_20260519_202038/best_model_autograd.pth
+Best epoch: 0
+Best validation total loss: 0.46673399
+
+Best Validation Metrics
+Loss: 0.46673399
+Energy MAE: 2.77399440
+Force Comp MAE: 0.07549946
+Force Mag MAE: 0.13939590
+
+Test Metrics
+Loss: 0.46160180
+Energy Metrics
+MAE: 2.75104380
+MSE: 8.24526501
+R2 : -0.83805585
+
+Force Component Metrics
+MAE: 0.07542174
+MSE: 0.05240948
+R2 : -2.46515250
+
+Force X Metrics
+MAE: 0.11337715
+MSE: 0.09627385
+R2 : -3.27068138
+
+Force Y Metrics
+MAE: 0.11288813
+MSE: 0.06095459
+R2 : -1.66979146
+
+Force Magnitude Metrics
+MAE: 0.13904481
+MSE: 0.13736668
+R2 : -8.18571568
